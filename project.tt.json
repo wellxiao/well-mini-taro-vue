@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "well-mini-program",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
